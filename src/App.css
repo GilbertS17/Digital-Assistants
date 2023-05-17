@@ -1,4 +1,14 @@
 body {
+  font-family: sans-serif;
   text-align: center;
-  background-color: rgb(127, 195, 255);
+  background-color: rgb(210, 234, 255);
+  padding: 50px;
+  font-size: 1rem;
+  color: rgb(105, 104, 104);
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
 }
